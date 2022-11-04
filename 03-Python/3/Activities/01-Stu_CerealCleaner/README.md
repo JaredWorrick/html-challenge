@@ -12,7 +12,7 @@ In this activity, you will create an application that reads in cereal data from 
 
 * Every value within the csv is stored as a string, and certain values have a decimal. This means that they will have to be cast to be used.
 
-* `csv.reader` begins reading the CSV file from the first row. `next(csv_reader, None)` will skip the header row. 
+* `csv.reader` begins reading the CSV file from the first row. `next(csv_reader, None)` will skip the header row.
 
   * Refer to this Stack Overflow post on [how to skip the header](https://stackoverflow.com/a/14257599) for more information.
 
@@ -28,4 +28,4 @@ Crawford, C. (2017, October 24). 80 cereals. [https://www.kaggle.com/crawford/80
 
 —
 
-© 2022 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+© 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.

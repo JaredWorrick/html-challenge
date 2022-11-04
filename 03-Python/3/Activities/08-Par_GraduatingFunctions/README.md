@@ -22,9 +22,6 @@ Note: Some states do not have non-profit or for-profit private schools, so data 
 
 Data Source: U.S. Department of Education, National Center for Education Statistics, IPEDS, Winter 2012-13, Graduation Rates component (final data). [https://nces.ed.gov/datalab/table/library/detail/12572](https://nces.ed.gov/datalab/table/library/detail/12572)
 
-- - - 
+- - -
 
-© 2022 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
-
-
-
+© 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.

@@ -10,6 +10,6 @@ In this activity, you will write a function to compute the arithmetic mean (aver
 
 * Test your function by calling it with different values and printing the results.
 
-- - - 
+- - -
 
-© 2022 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+© 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
