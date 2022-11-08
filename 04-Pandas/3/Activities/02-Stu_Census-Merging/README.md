@@ -1,6 +1,10 @@
 # Census Merging
 
+<<<<<<< HEAD
 In this activity, you will merge the two Census datasets that we created in the last class and then do a calculation and sort the values. 
+=======
+In this activity, you will merge the two Census datasets that we created in the last class and then do a calculation and sort the values.
+>>>>>>> 9754f23584d5af705428ebecc7a3a50654d0a0eb
 
 ## Instructions
 
@@ -24,4 +28,8 @@ Data Source: [U.S. Census API - ACS 5-Year Estimates 2016-2019](https://www.cens
 
 ---
 
+<<<<<<< HEAD
 © 2022 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+=======
+© 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+>>>>>>> 9754f23584d5af705428ebecc7a3a50654d0a0eb

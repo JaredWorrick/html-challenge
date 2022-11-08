@@ -1,6 +1,10 @@
 # Training Grounds
 
+<<<<<<< HEAD
 In this activity, you will take a large DataFrame containing 200 rows, analyze it with data functions, and then add a new column into it. 
+=======
+In this activity, you will take a large DataFrame containing 200 rows, analyze it with data functions, and then add a new column into it.
+>>>>>>> 9754f23584d5af705428ebecc7a3a50654d0a0eb
 
 ## Instructions
 
@@ -20,4 +24,8 @@ Using the DataFrame provided, perform all of the following actions:
 
 ---
 
+<<<<<<< HEAD
 © 2022 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+=======
+© 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+>>>>>>> 9754f23584d5af705428ebecc7a3a50654d0a0eb

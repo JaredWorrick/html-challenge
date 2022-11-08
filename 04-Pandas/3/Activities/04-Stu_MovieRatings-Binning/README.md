@@ -22,4 +22,8 @@ FiveThirtyEight (2015). [https://github.com/fivethirtyeight/data/tree/master/fan
 
 —
 
+<<<<<<< HEAD
 © 2022 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+=======
+© 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+>>>>>>> 9754f23584d5af705428ebecc7a3a50654d0a0eb

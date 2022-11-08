@@ -1,6 +1,10 @@
 # Hey Arnold!
 
+<<<<<<< HEAD
 In this activity, you will take a premade DataFrame of “Hey Arnold!” characters and reorganize it so that it is easier to understand. 
+=======
+In this activity, you will take a premade DataFrame of “Hey Arnold!” characters and reorganize it so that it is easier to understand.
+>>>>>>> 9754f23584d5af705428ebecc7a3a50654d0a0eb
 
 ## Instructions
 
@@ -24,4 +28,8 @@ Create a new table that contains all of the columns in the following order:
 
 ---
 
+<<<<<<< HEAD
 © 2022 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+=======
+© 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+>>>>>>> 9754f23584d5af705428ebecc7a3a50654d0a0eb
