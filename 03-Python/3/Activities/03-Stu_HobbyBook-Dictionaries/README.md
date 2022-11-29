@@ -13,6 +13,7 @@ In this activity, you will create and access dictionaries that are based on your
 
 2. Print out your name, how many hobbies you have, and a time you typically wake up during the week.
 
-- - -
+- - - 
 
-© 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+© 2022 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+

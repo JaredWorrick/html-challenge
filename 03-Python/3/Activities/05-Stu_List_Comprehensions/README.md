@@ -16,6 +16,6 @@ In this activity, you’ll use list comprehensions to compose a wedding invitati
 
 * Check out the documentation for the [title method](https://docs.python.org/3/library/stdtypes.html#str.title).
 
-- - -
+- - - 
 
-© 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+© 2022 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
