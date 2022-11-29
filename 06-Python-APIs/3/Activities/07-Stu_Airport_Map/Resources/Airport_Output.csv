@@ -1,7 +1,9 @@
-,City,State,Lat,Lng,Airport Name,Airport Address,Airport Rating
-0,San Francisco, California,37.7749295,-122.4194155,San Francisco International Airport,San Francisco,4.2
-1,New York City, New York,40.7127753,-74.0059728,Newark Liberty International Airport,"3 Brewster Rd, Newark",3.7
-2,Austin, Texas,30.267153,-97.7430608,Austin-Bergstrom International Airport,"3600 Presidential Blvd, Austin",4.2
-3,Minneapolis, Minnesota,44.977753,-93.2650108,Minneapolis−Saint Paul International Airport,Minnesota,4.3
-4,Seattle, Washington,47.6062095,-122.3320708,Seattle-Tacoma International Airport,"17801 International Blvd, Seattle",4.1
-5,Miami, Florida,25.7616798,-80.1917902,Miami International Airport,"2100 NW 42nd Ave, Miami",4.1
+City,Lat,Lon,Airport Name,IATA Name,Airport Address,Distance,Website
+Sydney,-33.8698439,151.2082848,Sydney (Kingsford Smith) Airport,SYD,"Eleventh Street, Mascot NSW 2020, Australia",6742,https://www.sydneyairport.com.au/
+Melbourne,-37.8142176,144.9631608,Essendon Fields Airport,MEB,"72 Hargrave Avenue, Essendon Fields VIC 3041, Australia",9980,https://www.ef.com.au/
+Perth,-31.9558964,115.8605801,Perth Airport,PER,"Hay Road, Ascot WA 6104, Australia",8775,https://www.perthairport.com.au/
+Cairns,-16.9206657,145.7721854,Cairns Airport,CNS,"Sheridan Street, Aeroglen QLD 4870, Australia",3461,
+Adelaide,-34.9281805,138.5999312,Adelaide Airport,ADL,"Adelaide Airport SA 5950, Australia",4898,https://www.adelaideairport.com.au/
+Gold Coast,-28.0023731,153.4145987,Gold Coast Airport,OOL,"Cahill Street, Bilinga QLD 4225, Australia",18807,https://www.goldcoastairport.com.au/
+Townsville,-19.2569391,146.8239537,Townsville Airport,TSV,"Meenan Street, Garbutt QLD 4812, Australia",4711,https://www.townsvilleairport.com.au/
+Williamtown,-32.815,151.8427778,Newcastle Airport,NTL,"55 Slades Road, Williamtown NSW 2318, Australia",620,https://www.newcastleairport.com.au
